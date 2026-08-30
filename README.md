@@ -64,7 +64,7 @@
 ### 
 
 <div align="center">
-  https://www.codewars.com/users/omid-toloei/badges/large
+  <img src="https://www.codewars.com/users/omid-toloei/badges/large" alt="CodeWars profile icon">
 </div>
 
 ###
