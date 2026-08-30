@@ -60,8 +60,9 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=omid-toloei&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
+###
 
-### 
+# 🥊 Code Wars
 
 <div align="center">
   <img src="https://www.codewars.com/users/omid-toloei/badges/large" alt="CodeWars profile icon">
