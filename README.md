@@ -60,7 +60,14 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=omid-toloei&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
+
 ### 
+
+<div align="center">
+  https://www.codewars.com/users/omid-toloei/badges/large
+</div>
+
+###
 
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=F57C00"  />
