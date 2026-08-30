@@ -33,9 +33,6 @@
   <a href="https://stackoverflow.com/users/32784304/omid-toloei" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="70" height="50" alt="stackoverflow logo"  />
   </a>
-  <a href="https://www.codewars.com/users/omid-toloei" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codewars/default.svg" width="70" height="50" alt="stackoverflow logo"  />
-  </a>
 </div>
 
 ###
