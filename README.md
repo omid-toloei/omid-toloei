@@ -1,7 +1,7 @@
 <div data-importer="border">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&text=Junior%20Front-End%20Developer&fontSize=36&fontColor=FEFCFA&fontAlign=50&fontAlignY=85&rotate=0&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=192232"
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&text=Junior%20Front-End%20Developer&fontSize=31&fontColor=FFFFFF&fontAlign=50&fontAlignY=85&rotate=0&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=F5F4F2"
   />
 </div>
 
@@ -10,7 +10,7 @@
 <div data-importer="profile-views" align="center">
   <img
     data-importer="profile-views"
-    src="https://visitor-badge.laobi.icu/badge?page_id=omid-toloei.omid-toloei&left_color=192232&right_color=2E3443&left_text=Profile%20views"
+    src="https://visitor-badge.laobi.icu/badge?page_id=omid-toloei.omid-toloei&left_color=FFFFFF&right_color=F5F4F2&left_text=Profile%20views"
   />
 </div>
 
@@ -102,7 +102,7 @@
 
 <div align="center" style="margin-top: 20px">
   <img
-    src="https://github-readme-stats.shion.dev/api/top-langs/?username=omid-toloei&theme=default&bg_color=FEFCFA&title_color=192232&text_color=2E3443&icon_color=192232&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=omid-toloei&theme=dark&bg_color=192232&title_color=F5F4F2&text_color=D3D4DA&icon_color=F5F4F2&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
   />
 </div>
 
@@ -122,8 +122,6 @@
 <div data-importer="border">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&reversal=false&fontSize=70&fontColor=FEFCFA&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=192232"
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&reversal=false&fontSize=70&fontColor=192232&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=F5F4F2"
   />
 </div>
-
-###
