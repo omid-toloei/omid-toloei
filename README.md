@@ -25,6 +25,7 @@
 ###
 
 # 🌐 Socials
+<br>
 
 <div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/omid-toloei" target="_blank">
@@ -76,6 +77,7 @@
 ###
 
 # 💻 Tech Stack
+<br>
 
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo" />
@@ -99,6 +101,7 @@
 ###
 
 # 📊 Most Used Languages
+<br>
 
 <div align="center" style="margin-top: 20px">
   <img
@@ -109,6 +112,7 @@
 ###
 
 # 🥊 CodeWars
+<br>
 
 <div align="center">
   <img
