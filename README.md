@@ -18,6 +18,14 @@
 
 ###
 
+<div align="center">
+  <img
+    src="assets/banner.png"
+  />
+</div>
+
+###
+
 # 💫 About Me
 
 🌱 I'm currently learning ReactJS and improving my front-end development skills.
