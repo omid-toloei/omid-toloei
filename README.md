@@ -21,6 +21,7 @@
 # 💫 About Me
 
 🌱 I'm currently learning ReactJS and improving my front-end development skills.
+
 💻 I enjoy building projects, solving programming challenges, and continuously improving my coding skills.
 
 <br>
