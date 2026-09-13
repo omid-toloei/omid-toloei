@@ -28,9 +28,16 @@
 
 # 💫 About Me
 
-🌱 I'm currently learning ReactJS and improving my front end development skills.
+🌱 I'm currently learning ReactJS and improving my front-end development skills.
 
-💻 I enjoy building projects, solving programming challenges, and continuously improving my coding skills.
+💻 I enjoy building projects, solving programming challenges, and exploring new technologies.
+
+🧠 I'm passionate about learning JavaScript, understanding how things work, and improving my problem-solving skills.
+
+🚀 I believe in learning by building, staying consistent, and growing one step at a time.
+
+🎯 My goal is to become a skilled front-end developer and create useful, well-designed web experiences.
+
 
 <br>
 
