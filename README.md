@@ -57,58 +57,39 @@ I'm a front-end developer focused on building practical, user-friendly web exper
 
 ### 1. [User Manager CRUD](https://github.com/omid-toloei/User-Manager-CRUD-Project)
 
-A user management application built with HTML, CSS, and Vanilla JavaScript. The project uses the JSONPlaceholder API to work with user data and demonstrates practical CRUD functionality.
+A user management application built with HTML, CSS, and JavaScript, using JSONPlaceholder API for data handling.
 
-**Key Features:**
-- Create, read, update, and delete user records.
-- Fetch and display user data using the Fetch API.
-- Search and manage users through an interactive interface.
-- Form validation and user input handling.
-- Loading states and error handling for API requests.
+- CRUD operations, user search, and form validation.
+- API integration with loading and error handling.
 
-**Technologies:** HTML5, CSS3, JavaScript, Fetch API, JSONPlaceholder API.
+**Technologies:** HTML, CSS, JavaScript, Fetch API.
 
 ---
 
 ### 2. [Shopping Cart](https://github.com/omid-toloei/Shopping-Cart)
 
-An interactive e-commerce shopping cart project built with HTML, CSS, and Vanilla JavaScript. It uses the Fake Store API to retrieve product information and provides a practical shopping experience.
+An interactive shopping cart application that fetches products from Fake Store API and provides basic e-commerce functionality.
 
-**Key Features:**
-- Fetch and display products from an external API.
-- Add products to the shopping cart.
-- Manage product quantities.
-- Calculate cart totals dynamically.
-- Save cart data using LocalStorage to preserve it between page reloads.
-- Organize product and cart data using JavaScript.
+- Add products and manage quantities.
+- Dynamic price calculation and LocalStorage persistence.
 
-**Technologies:** HTML5, CSS3, JavaScript, Fetch API, Fake Store API, LocalStorage.
+**Technologies:** HTML, CSS, JavaScript, Fetch API, LocalStorage.
 
 ---
 
 ### 3. [Neon Todo](https://github.com/omid-toloei/Neon-Todo)
 
-A minimal task management application designed with a dark interface and neon-green accents. The project focuses on creating an organized and interactive experience for managing everyday tasks.
+A minimal task management application featuring a dark interface with neon-green accents.
 
-**Key Features:**
-- Add and manage tasks.
-- Organize tasks through a simple interface.
-- Save task data locally using LocalStorage.
-- Track unfinished tasks.
-- Clean UI with a minimal dark design.
+- Create and manage daily tasks.
+- Save tasks using LocalStorage.
 
-**Technologies:** HTML5, CSS3, JavaScript, LocalStorage.
+**Technologies:** HTML, CSS, JavaScript, LocalStorage.
 
 ---
 
 ### 4. [Codewars Solutions](https://github.com/omid-toloei/Codewars-Solutions)
 
-A collection of my solutions to programming challenges on Codewars, primarily written in JavaScript. This repository documents my problem-solving practice and helps me strengthen my understanding of programming fundamentals.
+A collection of my JavaScript solutions to Codewars challenges, focused on improving logical thinking and problem-solving skills.
 
-**Key Features:**
-- Solutions to coding challenges of different difficulty levels.
-- Practice with JavaScript fundamentals and built-in methods.
-- Exercises focused on logical thinking and problem-solving.
-- A growing collection of solutions organized by challenge.
-
-**Technologies:** JavaScript, Git, GitHub.
+**Technologies:** JavaScript.
