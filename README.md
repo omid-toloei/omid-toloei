@@ -4,7 +4,7 @@
 
 **Junior Front-End Developer**
 
-Building web interfaces with HTML, CSS, and JavaScript · Currently learning React
+Building web interfaces with HTML, CSS, and JavaScript · Currently learning ReactJS
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=omid-toloei.omid-toloei&left_color=6B7280&right_color=F57C00&left_text=Profile%20views" alt="Profile views" />
 
@@ -16,7 +16,7 @@ Building web interfaces with HTML, CSS, and JavaScript · Currently learning Rea
 
 I'm a front-end developer focused on building practical, user-friendly web experiences. I enjoy learning by building projects, exploring JavaScript, and improving my problem-solving skills.
 
-- 🌱 Currently learning **React** and strengthening my JavaScript skills.
+- 🌱 Currently learning **ReactJS** and strengthening my JavaScript skills.
 - 💻 Interested in **Front-End Development**, interactive interfaces, and modern web technologies.
 - 🧩 I practise problem-solving through programming challenges and personal projects.
 
@@ -29,10 +29,29 @@ I'm a front-end developer focused on building practical, user-friendly web exper
 </p>
 
 <p>
-  <strong>Currently learning:</strong>
-  <img src="https://skillicons.dev/icons?i=react" height="25" alt="React" />
-  <sub>React</sub>
+  <strong>Currently learning: ReactJS</strong>
 </p>
+
+## Connect with Me
+
+<p>
+  <a href="https://www.linkedin.com/in/omid-toloei">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/omidtoloei.dev">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://t.me/OmidToloei">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  &nbsp;
+  <a href="mailto:omidtoloei.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
 
 ## Featured Projects
 
@@ -93,25 +112,3 @@ A collection of my solutions to programming challenges on Codewars, primarily wr
 - A growing collection of solutions organized by challenge.
 
 **Technologies:** JavaScript, Git, GitHub.
-
----
-
-## Connect with Me
-
-<p>
-  <a href="https://www.linkedin.com/in/omid-toloei">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/omidtoloei.dev">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  &nbsp;
-  <a href="https://t.me/OmidToloei">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  &nbsp;
-  <a href="mailto:omidtoloei.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
