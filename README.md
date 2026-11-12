@@ -1,150 +1,117 @@
-<div data-importer="border">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&text=Junior%20Front-End%20Developer&fontSize=31&fontColor=FFFFFF&fontAlign=50&fontAlignY=85&rotate=0&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=F5F4F2"
-  />
-</div>
-
-###
-
-<div data-importer="profile-views" align="center">
-  <img
-    data-importer="profile-views"
-    src="https://visitor-badge.laobi.icu/badge?page_id=omid-toloei.omid-toloei&left_color=FFFFFF&right_color=F5F4F2&left_text=Profile%20views"
-  />
-</div>
-
-<br>
-
-###
-
 <div align="center">
-  <img
-    src="assets/banner.png"
-  />
+
+# Omid Toloei
+
+**Junior Front-End Developer**
+
+Building web interfaces with HTML, CSS, and JavaScript · Currently learning React
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=omid-toloei.omid-toloei&left_color=6B7280&right_color=F57C00&left_text=Profile%20views" alt="Profile views" />
+
 </div>
 
-###
+---
 
-# 💫 About Me
+## About
 
-🌱 I'm currently learning ReactJS and improving my front-end development skills.
+I'm a front-end developer focused on building practical, user-friendly web experiences. I enjoy learning by building projects, exploring JavaScript, and improving my problem-solving skills.
 
-💻 I enjoy building projects, solving programming challenges, and exploring new technologies.
+- 🌱 Currently learning **React** and strengthening my JavaScript skills.
+- 💻 Interested in **Front-End Development**, interactive interfaces, and modern web technologies.
+- 🧩 I practise problem-solving through programming challenges and personal projects.
 
-🧠 I'm passionate about learning JavaScript, understanding how things work, and improving my problem-solving skills.
+## Tech Stack & Tools
 
-🚀 I believe in learning by building, staying consistent, and growing one step at a time.
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" height="36" alt="HTML, CSS, and JavaScript" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,ps" height="36" alt="Git, GitHub, VS Code, and Photoshop" />
+</p>
 
-🎯 My goal is to become a skilled front-end developer and create useful, well-designed web experiences.
+<p>
+  <strong>Currently learning:</strong>
+  <img src="https://skillicons.dev/icons?i=react" height="25" alt="React" />
+  <sub>React</sub>
+</p>
 
+## Featured Projects
 
-<br>
+### 1. [User Manager CRUD](https://github.com/omid-toloei/User-Manager-CRUD-Project)
 
-###
+A user management application built with HTML, CSS, and Vanilla JavaScript. The project uses the JSONPlaceholder API to work with user data and demonstrates practical CRUD functionality.
 
-# 🌐 Socials
-<br>
+**Key Features:**
+- Create, read, update, and delete user records.
+- Fetch and display user data using the Fetch API.
+- Search and manage users through an interactive interface.
+- Form validation and user input handling.
+- Loading states and error handling for API requests.
 
-<div data-importer="socials" align="center">
-  <a href="https://www.linkedin.com/in/omid-toloei" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
-      width="60"
-      height="45"
-      alt="linkedin logo"
-    />
+**Technologies:** HTML5, CSS3, JavaScript, Fetch API, JSONPlaceholder API.
+
+---
+
+### 2. [Shopping Cart](https://github.com/omid-toloei/Shopping-Cart)
+
+An interactive e-commerce shopping cart project built with HTML, CSS, and Vanilla JavaScript. It uses the Fake Store API to retrieve product information and provides a practical shopping experience.
+
+**Key Features:**
+- Fetch and display products from an external API.
+- Add products to the shopping cart.
+- Manage product quantities.
+- Calculate cart totals dynamically.
+- Save cart data using LocalStorage to preserve it between page reloads.
+- Organize product and cart data using JavaScript.
+
+**Technologies:** HTML5, CSS3, JavaScript, Fetch API, Fake Store API, LocalStorage.
+
+---
+
+### 3. [Neon Todo](https://github.com/omid-toloei/Neon-Todo)
+
+A minimal task management application designed with a dark interface and neon-green accents. The project focuses on creating an organized and interactive experience for managing everyday tasks.
+
+**Key Features:**
+- Add and manage tasks.
+- Organize tasks through a simple interface.
+- Save task data locally using LocalStorage.
+- Track unfinished tasks.
+- Clean UI with a minimal dark design.
+
+**Technologies:** HTML5, CSS3, JavaScript, LocalStorage.
+
+---
+
+### 4. [Codewars Solutions](https://github.com/omid-toloei/Codewars-Solutions)
+
+A collection of my solutions to programming challenges on Codewars, primarily written in JavaScript. This repository documents my problem-solving practice and helps me strengthen my understanding of programming fundamentals.
+
+**Key Features:**
+- Solutions to coding challenges of different difficulty levels.
+- Practice with JavaScript fundamentals and built-in methods.
+- Exercises focused on logical thinking and problem-solving.
+- A growing collection of solutions organized by challenge.
+
+**Technologies:** JavaScript, Git, GitHub.
+
+---
+
+## Connect with Me
+
+<p>
+  <a href="https://www.linkedin.com/in/omid-toloei">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
-  <a href="https://www.instagram.com/omidtoloei.dev" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
-      width="60"
-      height="45"
-      alt="instagram logo"
-    />
+  &nbsp;
+  <a href="https://www.instagram.com/omidtoloei.dev">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-
-  <a href="https://t.me/OmidToloei" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg"
-      width="60"
-      height="45"
-      alt="telegram logo"
-    />
+  &nbsp;
+  <a href="https://t.me/OmidToloei">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-
+  &nbsp;
   <a href="mailto:omidtoloei.dev@gmail.com">
-    <img
-      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
-      width="60"
-      height="45"
-      alt="gmail logo"
-    />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
-
-  <a href="https://stackoverflow.com/users/32784304/omid-toloei" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg"
-      width="60"
-      height="45"
-      alt="stackoverflow logo"
-    />
-  </a>
-</div>
-
-###
-
-# 💻 Tech Stack
-<br>
-
-<div data-importer="techs" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo" />
-  <img width="13" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css logo" />
-  <img width="13" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" />
-  <img width="13" />
-
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo" />
-  <img width="13" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo" />
-  <img width="13" />
-
-  <img src="https://skillicons.dev/icons?i=ps" height="50" alt="adobe photoshop logo" />
-</div>
-
-###
-
-# 📊 Most Used Languages
-<br>
-
-<div align="center" style="margin-top: 20px">
-  <img
-    src="https://github-readme-stats.shion.dev/api/top-langs/?username=omid-toloei&theme=dark&bg_color=192232&title_color=F5F4F2&text_color=D3D4DA&icon_color=F5F4F2&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
-  />
-</div>
-
-###
-
-# 🥊 CodeWars
-<br>
-
-<div align="center">
-  <img
-    src="https://www.codewars.com/users/omid-toloei/badges/large"
-    alt="CodeWars profile icon"
-  />
-</div>
-
-###
-
-<div data-importer="border">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&reversal=false&fontSize=70&fontColor=192232&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=F5F4F2"
-  />
-</div>
+</p>
